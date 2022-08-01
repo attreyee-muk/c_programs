@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "*.html": "html",
+        "algorithm": "c",
+        "chrono": "c",
+        "limits": "c",
+        "ratio": "c"
+    }
+}
